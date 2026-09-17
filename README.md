@@ -25,7 +25,7 @@ This project allows users to add, view, and delete tasks through an interactive 
 
 todo-list-python/
 │
-├── todo.py
+├── main.py
 └── README.md
 
 ▶️ How to Run
@@ -40,7 +40,7 @@ cd todo-list-python
 
 3. Run the Python file
 
-python todo.py
+python main.py
 
 💻 How It Works
 
